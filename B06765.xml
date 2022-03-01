@@ -1,0 +1,209 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A warning to the court, Parliament, and army. From a true lover of his country, and of all that love the truth in righteousness. Heartily desiring the peace and welfare of these poore nations, with freedome and an impartial administration of justice, that righteousness might run down our streets like a flood, and truth be exalted. Then will our God crown the labourers in, and doers of His work, with glory and honour, and at last immortality.</title>
+            <author>Trewman, Gregory.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06765</idno>
+            <idno type="STC">Wing W940B</idno>
+            <idno type="STC">ESTC R203937</idno>
+            <idno type="EEBO-CITATION">52529080</idno>
+            <idno type="OCLC">ocm 52529080</idno>
+            <idno type="VID">179227</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06765)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179227)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2780:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A warning to the court, Parliament, and army. From a true lover of his country, and of all that love the truth in righteousness. Heartily desiring the peace and welfare of these poore nations, with freedome and an impartial administration of justice, that righteousness might run down our streets like a flood, and truth be exalted. Then will our God crown the labourers in, and doers of His work, with glory and honour, and at last immortality.</title>
+                  <author>Trewman, Gregory.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>With marginal notes.</note>
+                  <note>Signed on p. 5: "Your true friend Gregory Trewman."</note>
+                  <note>Reproduction of the original in the California State Library, Sutro branch.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver, 1599-1658.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:179227:1" rendition="simple:additions"/>
+            <head>A Warning to the <hi>Court, Parliament,</hi> and <hi>Army. From a true Lover of his Country, and of all that love the Truth in Righteouſneſs.</hi> Heartily deſiring the Peace and welfare of theſe poore Nations, with Freedome and an Impartial adminiſtration of Juſtice, that Righteouſneſs might run down our ſtreets like a flood, and truth be exalted.</head>
+            <epigraph>
+               <q>Then will our God crown the labourers in, and doers of his work, with glory and honour, and at laſt Immortality.</q>
+            </epigraph>
+            <p>LEt not any mans impatience, prejudice, or ſtrong affecti<g ref="char:EOLhyphen"/>on, carry him to the practiſe of, or an endeavouring to a ſettlement of the Nations on ſuch Foundations, as may and will prove abſolutely prejudiciall to the ſafety, peace and welfare of us, and our poſterities.</p>
+            <p>We have for a long time prayed to our God in theſe words; <hi>Lead us not into Temptation, but deliver us from all Evill;</hi> which is to be taken in a double ſenſe: As,</p>
+            <p>Not to act Iniquity, from or by a Law, but to prevent it: and to be upon our watch, is in ſome meaſure, the anſwer of that part of the Lords Prayer.</p>
+            <p>Have not the Engliſh Nation, and the good, wiſe Senators therein experienced, how a ſingle Perſons Government, hath point blanck croſſed their prayers, &amp; their good intents when they were redy to put them into Laws for the good of poſterity.</p>
+            <p>The whole prayer called the <hi>Lords Prayer,</hi> is not underſtood, nor doe moſt men underſtand what they doe, when they uſe it: for if they did but once underſtand what they pray for, they would act accordingly; <hi>Thy will be done O Lord, on earth as it is in Heaven, &amp;c.</hi> And yet men, nay wiſe men, that daily uſe thiss prayer, will daily act contrary things, and lead themſelve into temptations, to act one part of the Lords prayer.</p>
+            <p>But they will thruſt us into the higheſt temptations that po<g ref="char:EOLhyphen"/>ſible
+<pb n="2" facs="tcp:179227:2"/>can be on earth, and cunningly creep after themſelves: What greater temptation was ever any man led into, than the late Protector was; was he not led from one degree to another, till he grew ſo great and mightie, that his looks and threats could fright all men but fools.</p>
+            <p>Was he not a dread and terrour to that very Armie, that raiſed him from the mean condition he was once in, to all his greatneſſe:<note place="margin">What is the L. <hi>Fawcon<g ref="char:EOLhyphen"/>bridge!</hi> &amp; what has <hi>Thurloe</hi> done, but help ſubvert the Right, Liberty &amp; Priviledge of the people of <hi>England.</hi>
+               </note> And could he not reward men at his will &amp; pleaſure, ſome that ne<g ref="char:EOLhyphen"/>ver did the leaſt ſervice for the Nation, nor ever did venture a haire of their heads, nor ſpend a penny of mony in the Parliaments Cauſe with great places of truſt &amp; profit, others that ventured their lives and eſtates, and received wounds and ſcars,<note place="margin">Firſt Mr. <hi>Hollis,</hi> Maj. Gen. <hi>Broun,</hi> Cor. <hi>Joyce</hi> M.G. <hi>Harriſon,</hi> Quar<g ref="char:EOLhyphen"/>term. <hi>Courtney,</hi> Mr. <hi>Can</hi> Sr. H <hi>Vaine,</hi> M.G. <hi>O<g ref="char:EOLhyphen"/>verton,</hi> Col. <hi>Ock<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y,</hi> and many others.</note> did he reward with Ignominie and Reproach, Priſons, Baniſhment and great threats to others, that did but ſpeak for a righteous Government; What may otherwayes be now expected?</p>
+            <p>Was he not led into Temptations, when neither Law nor Juſtice could reach him.</p>
+            <p>Have men eyes &amp; will not ſee, &amp; ears &amp; will not hear; &amp; ſtill go on in hardning their hearts: Friends, My adviſe is, conſider and take heed, leaſt God come unaware &amp; ſmite us with a curſe, and deſtroy our Nation for our hypocriſy, and ſinning againſt light and our own prayers.</p>
+            <p>Was not his caſe ſad, when his temptations led him to ſin a<g ref="char:EOLhyphen"/>gainſt God, and his own prayers; alſo the light of his under<g ref="char:EOLhyphen"/>ſtanding and conſcience; his praiers and appeals to the righ<g ref="char:EOLhyphen"/>teous God ſtandeth regiſtred in Heaven and on Earth alſo; and yet will men follow his ſteps, and lead themſelves into tem<g ref="char:EOLhyphen"/>tation: ſuch men I would adviſe to leave of praying, and diſ<g ref="char:EOLhyphen"/>ſemble no more with God nor your Countrie-men.</p>
+            <p>Was there ever any man in our daies raiſed to that name and fame of Religion and profeſſion, and led into ſomany ſnares and temptations. Its true, Chriſt Jeſus was taken up to a Pi<g ref="char:EOLhyphen"/>nacle, and ſhowed all the glory of the Earth; Then ſaid the Devil, all this I will give unto thee, if thou wile fall down and
+<pb n="3" facs="tcp:179227:2"/>worſhip me, Its worth our remembrance at this time.</p>
+            <p>Who would now be led or thruſt into temptation; Is it for nought, that God raiſeth up ſome poor worms to remind you of theſe things: Conſider, ye wiſe in heart, and prudent in un<g ref="char:EOLhyphen"/>derſtanding, and harden not your hearts in the dayes of tem<g ref="char:EOLhyphen"/>ptation, when your fathers tempted you, leaſt Gods ſignal hand of judgement follow you and yours.</p>
+            <p>Was he not fed by the ſubtiltie and craft of ſome that knew his diſpoſition and temper, and heightned by them,<note place="margin">For that was good Law and Juſtice, that formerly was Treaſon, Inju<g ref="char:EOLhyphen"/>ſtice, and breach of Pri<g ref="char:EOLhyphen"/>viledge, <hi>&amp;c.</hi>
+               </note> un<g ref="char:EOLhyphen"/>till his Kingly Domination and ſtroke fell on their heads.</p>
+            <p>And is not the like now in this our day, hath not the ſubtil<g ref="char:EOLhyphen"/>tie of ſome begotten Addreſſes from ſeveral parts; as if they were to the ſon of God, whileſt others nearer home are lead<g ref="char:EOLhyphen"/>ing him into temptations, or thruſting him upon them; re<g ref="char:EOLhyphen"/>member what is ſaid before: And it may be in time, you that are moſt eager for a fingle Perſon, may feele the firſt ſtroke in bodie or ſoule, if not in both.<note n="*" place="margin">Princes enthroned, when once their turns are ended, hue down thoſe ſtaires by which themſelves aſcen<g ref="char:EOLhyphen"/>ded.</note> It was the late Protectors own Diſtitch. Its true, if you can touch Pitch, and not be defiled, you may do well; its a hard matter; did not the late great Governour in<g ref="char:EOLhyphen"/>ſnare ſome of all ſorts that ever came to him; and had he not a kinde of vertue that did run into men by his preſence, &amp; had not the late King the ſame vertue, for no ſooner had any man kiſs'd their hands, &amp; talked with him, but preſently cried him up; &amp; is not the ſame vertue ſtill in one man when ſo lifted up; is he not cried up for a brave man and ſo forth, though he may be a Devill at heart: <hi>Lead us not into temptation, nor your poſterities, I beg.</hi>
+            </p>
+            <p>How many degrees beyond the ordinary ſphear,<note place="margin">Will you build again, that God once de<g ref="char:EOLhyphen"/>ſtroyed.</note> have you thruſt good nature into; and will you ſtill go on, &amp; bring him into all manner of temptations, &amp; hereby beſot or bewitch the poor &amp; ignorant men, makes me wonder &amp; ask what's God doing.</p>
+            <p>But its like you will ſet him as high as you can, and get gra<g ref="char:EOLhyphen"/>dually after him, and at length teach him to do as bad things as the old man did and his Predeceſſor, I mean the late King, until the poor Nation be in the like condition, as it was, under Oppreſſion and Tirannie, againſt which was much
+<pb n="4" facs="tcp:179227:3"/>blood and treaſure ſpilt, &amp; is like now to be contracted on them that did it:<note place="margin">And many of <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ou were Law makers for it.</note> by the craft and ſubtilty of ſuch as would be above or beyond law and reaſon, and unto this will the Lawyers lend their aſſiſtance; that ſo their work might increaſe,<note place="margin">For the greateſt part of the Lawyers did aſſiſt the King againſt the publick intereſt of the good peo<g ref="char:EOLhyphen"/>ple; alſo they that preten<g ref="char:EOLhyphen"/>ded to the good old cauſe, are ſince corrupted.</note> and will ere long draw up Indict<g ref="char:EOLhyphen"/>ments againſt all and every particular man that fought againſt the late King, for and in the Cauſe of the late Parlia<g ref="char:EOLhyphen"/>ments quarrell againſt him, there being law enough, ſay they, to hang every one of thoſe that ſo fought or lent moneies; and is not this the beſt that is like to come to us, a ſetting men together by the ears, one family againſt another, till at length we come to miſerie and confuſion, ruine and deſolation.</p>
+            <p>
+               <hi>Lead us not into temptations, but deliver us from all evill O Lord.</hi>
+            </p>
+            <p>And from a Lord above Law, though (never ſo juſt <hi>&amp;c.</hi>) he pretend to protect us; leaſt his little ſinger prove heavier than his fathers hand, which was bad enough.</p>
+            <p>The old mans principles, are not his ſons; and that wiſe men ſee and know.<note place="margin">
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> am perſwa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed that the <gap reason="illegible" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>e Protector <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>as the wiſeſt <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d beſt that <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>er <hi>England</hi> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ill have.</note>
+            </p>
+            <p>Which makes men at this time ſtrugle and ſtrive, who ſhall lead him by—one is for this, &amp; another for that; good reaſon will tell us, &amp; alſo lead us out of Temptation, &amp; not put us fur<g ref="char:EOLhyphen"/>ther into it: I pray confider &amp; agree, put of the works of dark<g ref="char:EOLhyphen"/>neſs &amp; put on the Armor of light, who is for things &amp; not men.</p>
+            <p>My meaning is this: God hath by a ſignall ſtroke of Juſtice taken away your King; and by his divine hand of Provi<g ref="char:EOLhyphen"/>dence your Protector; and yet will you thruſt your ſelves and one another into temptations, Make your heges and diches, bars, gates and ſtiles, never ſo ſtrong, and he ſhall leap over them if not wholy beat them downe; and ſpoyle the beſt laws you can make, and men will be tempted to lift him up, (which need not) and he, when lifted up and ſetled, will pull them after, which is no new thing: ſuch is &amp; will be our opreſſion.</p>
+            <p>Your ſons muſt go to Court for preferment, your daughters muſt do the like, and doth not this lead into temptations: Galantry is a ſnare, voluptiouſneſſe is a ſnare; wantoneſſe is a delight, and naturall to a Court though of the meaneſt rank
+<pb n="5" facs="tcp:179227:3"/>or ſtamp, what iniquities is there, and you have not done it, and led us into? Pray conſider, before it be too late; time tarries for no man; do not die while you are alive: I ſpeak to all of all ſorts and all Powers: Your Fathers are dead, and ſome of us had been happy if we had never ſeen this day, and had been taken away from the evill, that is and is like to come; but a word to the wiſe is enough, onely let me mind you of one thing more, &amp; then I ſhall by the mercy of God &amp; his aſſiſt<g ref="char:EOLhyphen"/>ance be at reſt, &amp; wait Gods further appearances &amp; follow him.</p>
+            <p>The wiſe and praying man foreſeeth an evill and prevent<g ref="char:EOLhyphen"/>eth it; alſo God hath ſaid, the ſecrets of the Almighty are with them that fear him; and they ſhall not fear what man can do unto them; nor create fears and jealouſies to themſelves as ſome doe, nor ſubtilly make Bug-bears to fright poore igno<g ref="char:EOLhyphen"/>rant men, as ſome do while ſome great ones act <hi>Machivel,</hi> &amp; turn Atheiſts under a pretence of good, piety, &amp; preſervation of the Libertie of Gods people; which Gods people hope they can truſt God with all; and ſo muſt doe when all vain hopes faile and fair pretences deceive us.</p>
+            <p>Let now our juſt Rights and Liberties be Aſſerted, and then no one ſingle Perſon can hurt another, then if he kill or hurt any, the law will hang the Murderer, though he be a mighty man; and if he ſteale away our monies and eſtates the Law will defend us; and the true genuine Law is and ought to be ſuch, and ſo ſettled and ſecured, that no man ſhould be above it, or out of the reacht thereof; but all men ſhould be put into ſuch a capacity, as he would they ſhould do to him, ſo he to doe to others, reſt.</p>
+            <closer>
+               <signed>Your true friend <hi>Gregory Trewman.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <p>FOr Zions ſake, I will not hold my peace, nor can I be ſilent, when I ſee my Country-men like to be miſled and hurried into a ſeeming ſettlement, ſuch a one as will deſtroy them, that carrieth on ſo horrible a deſigne againſt God and their own Conſciences; And will not yeeld to be governed, as well as to
+<pb n="6" facs="tcp:179227:4"/>govern: which is the moſt Tirannical and deſtructive principle that can be in man; and that all good men fought againſt; or elſe why was the King put to death? I ſhall now put the Rea<g ref="char:EOLhyphen"/>der in mind of ſome notable and remarkable paſſages and pra<g ref="char:EOLhyphen"/>ctiſes, that have not commonly been known nor heard of.</p>
+            <p>To prevent my Countrymen in Parliament and elſewhere, from further temptations &amp; ſnares, or thruſting others into ſla<g ref="char:EOLhyphen"/>very: take the King from his evill Councel, was our former Par<g ref="char:EOLhyphen"/>liamentary, &amp; Souldiers cry, alſo the Country cry; but it ſeems now to be forgotten or aſleep; alſo that Reformation, which was once eminently pointed at, and hoped for, by all ſober and good men. If a King or chief Magiſtrate ſhall be miſlead by a fine thing, or a <hi>Thurling</hi> crafty and bluſtring ſword, or by the cunning and craft of ſuch Inſtruments; led into ſuch a deport<g ref="char:EOLhyphen"/>ment as ſome great ones once were, though it is more his diſ<g ref="char:EOLhyphen"/>ſition to be Hawking, Hunting, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>My adviſe therefore is:</hi>
+               <lb/> Firſt, To you Army-men great and ſmall, build not again the things God by you hath deſtroyed. Secondly, To you Country men, that are entruſted with your Countries Laws, Liberties and Eſtates;<note place="margin">See how angry that angry par<g ref="char:EOLhyphen"/>ty is, which was againſt bringing the King to Juſtice and had con<g ref="char:EOLhyphen"/>junction with <hi>Charles</hi> the Second.</note> be not cheated nor frighted; God is at work diſcovering men and things. If this queſtion ſhould be asked, what is the man or his name, that goeth about to ſub<g ref="char:EOLhyphen"/>vert the Liberties of the People of <hi>England,</hi> and would have Iniquity, or the thing God hath deſtroyed, ſettled by a Law? What ſervice did he ever do for this Nation, but wickedly help to break the late Protectors heart; and ever more laid ſnares for men to deſtroy them; may, ſuch men as had been as emi<g ref="char:EOLhyphen"/>nently faithfull to the Parliament and their Cauſe as any. Be warned ye great ones, that have the leaſt dram or ſpark of ho<g ref="char:EOLhyphen"/>neſty, or fear of God before your eyes, orlove to your Country. For the cunning and craft of ſome men, is to doe the Devils work, and to eſtabliſh his Government and Kingdome, and to make his viſegerent on earth. God is making a further diſco<g ref="char:EOLhyphen"/>very of men and things, and will break the hearts or necks of
+<pb n="7" facs="tcp:179227:4"/>thoſe that ſhall go on to ſettle Iniquity by a law againſt light, nay againſt their own Prayers, and ſolemn Appeals made to God in the daies of old, when they were in diſtreſſe, and knew not what to do.</p>
+            <p>Your Iniquities were almoſt done away, and you were once a ſweet ſavour in the Noſtrels of all good men, and the Lord owned you, and the hearts and praiers of Gods people were the wals and bulworks, and God gave you great deliverances.</p>
+            <p>But now your iniquities begin to be like ſcarlet, double died in contracting all the blood that hath been ſpilt on your own and your poſterities heads; and putting your ſelves into a blood thirſting poſture again; for the witnes of God and good people hath been and is ſtill going out againſt you and your acting, and will not hold their peace, nor keep ſilence any longer. Your Idoll when ſet up muſt be worſhipped and ador<g ref="char:EOLhyphen"/>ed, your voluptuouſneſs and wantoneſs muſt be maintained, and all out of the peoples labours; you will firſt take their monies, then their goods, and laſtly their fleſh from their bones.</p>
+            <p>Who would not now be a Courtier, when he is like to be a<g ref="char:EOLhyphen"/>bove all Law or Juſtice, and out of the reach of both.</p>
+            <p>The Gentleman muſt think to breed his ſons at no other place, nor to marrie his daughters to any other Trades men but Courtiers; and then ſee what glorious reformation we are at laſt like to have.</p>
+            <p>I pray you my Lord <hi>Fleetwood</hi> and Major General <hi>Disborough,</hi> and the reſt, leave off praying, and diſſemble no longer with God and your ſelves and good men, and ſay to us in plain terms, you will have all our Eſtates, our Lives, our Wives at your wils and pleaſures: or be honeſt.</p>
+            <p>And remember that after a little while God will Call you to an account and you muſt die as the late Protector did, and go to judgement, which I fear you little think of.</p>
+            <p>Alſo God may ſuddenly ſay, bring thoſe mine enemies be<g ref="char:EOLhyphen"/>fore me, that would not have Chriſt to raign over them, and ſlay them before my face.</p>
+            <p>Remember Gods appearance to <hi>Solomon</hi> once and twice; and he ſlighted the call or voice of God, and ſee what followed:
+<pb n="8" facs="tcp:179227:5"/>And when he was going to leave all his glory and honour, which was much more than yours is or ever will be, he ſaid all was vanity and vexation of ſpirit: (ſome ſaid with men in our dayes) and hard to leave off and forſake; but I had rather be a doore keeper in the houſe of my God, than to dwell with the workers of iniquity (from whom good Lord deliver me and all thy dear and precious ones) their ſnares, baits, and tem<g ref="char:EOLhyphen"/>ptations are many, and of the moſt glorious colours; golden baits, ſuch as the Devils inſtruments do fiſh with all to catch and bewitch men.</p>
+            <p>And were it not for ſome ſuch ſmooth ſtuff, ſpeciouſly guilded over with glorious words, and fair pretences, &amp; ſomtimes with frights and Bugbears;<note place="margin">A great place and a gallant Incomb out of the poor country mans labours, whish makes them forget God and oppreſs this Nation.</note> Gods work would go ſwifter on, and men would truſt God more in the work of God, while its called to day: For time tarrieth for no man, nor can this day be to morrow, or another time; therefore up and be doing, and a<g ref="char:EOLhyphen"/>riſe from the dead, and Chriſt ſhall give the life and ſtrength, if thou wilt but truſt him in the uſe of means; and in him I reſt,</p>
+            <closer>
+               <signed>Thine for truth and Juſtice till death.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
